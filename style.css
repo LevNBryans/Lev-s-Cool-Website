@@ -1,0 +1,38 @@
+h3{
+    text-transform:uppercase;
+}
+p{
+    text-align:right
+    font-family:Arial;
+}
+body{
+    background-image:url("https://www.sdsmt.edu/academics/explore-all-programs/assets/geological_engineering/27697081909_ee622b34dd_c.jpg");
+    background-size:25px 25px;
+}
+li{
+    font-size:16px;
+    font-style:italic;
+}
+iframe{
+    height:600px;
+    width:100%;
+}
+.header{
+    border-style:Solid;
+    background-image:url("https://www.sdsmt.edu/academics/explore-all-programs/assets/geological_engineering/27697081909_ee622b34dd_c.jpg");;
+    background-size:25px 25px;
+}
+.content{
+    background-image:url("https://www.sdsmt.edu/academics/explore-all-programs/assets/geological_engineering/27697081909_ee622b34dd_c.jpg");;
+    height:80%;
+    width:70%;
+    background-size:25px 25px;
+}
+.footer{
+    background-image:url("https://www.sdsmt.edu/academics/explore-all-programs/assets/geological_engineering/27697081909_ee622b34dd_c.jpg");;
+    background-size:25px 25px;
+}
+.job-title{
+    font-weight:Bold;
+    color:Maroon;
+}
